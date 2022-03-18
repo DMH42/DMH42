@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <!--
 # Hello, and welcome! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
--->
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=dmh42&show_icons=true&theme=dracula">
+-->
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmh42&theme=dracula">
