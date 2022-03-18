@@ -19,8 +19,12 @@ Here are some ideas to get you started:
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=dmh42&show_icons=true&theme=dracula">
 -->
 
-Greetings Traveler! Here is my github profile where I share my work around AI, Startups, and any other code that might be useful.
+
+<div> 
+<p>Greetings Traveler! Here is my github profile where I share my work around AI, Startups, and any other code that might be useful!</p>
 
 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmh42&theme=dracula&include_all_commits=true&count_private=true">
+
+</div>
