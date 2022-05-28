@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
   * [My Website](https://www.munoz.ai)
   * My current Startup is [Flowlie](https://www.flowlie.com/)
-  * [My LinkedIn](https://www.linkedin.com)
+  * [My LinkedIn](https://www.linkedin.com/in/munozai)
   
  ### If there is some way you think I can help you out please reach out!
 
