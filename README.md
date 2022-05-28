@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   * My current Startup is [Flowlie](https://www.flowlie.com/)
   * [My LinkedIn](https://www.linkedin.com)
   
- ### If there is some way I can help out please let me know!
+ ### If there is some way you think I can help you out please reach out!
 
 
 <!--
