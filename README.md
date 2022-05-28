@@ -21,12 +21,12 @@ Here are some ideas to get you started:
 
 <div> 
 <p>Here is my github profile where I share my work around AI, Startups, and any other code that might be useful!</p>
+<p>Back in 2018/19 I worked with [Duncan](https://github.com/duncangrubbs) to build [BarterOut](https://github.com/BarterOut), a peer-to-peer textbook exchange platform! We are currently helping to build [Flowlie](https://www.flowlie.com/), the future data-infrastructure for VC! <p>
 
   * [My Website](https://www.munoz.ai)
-  * My current Startup is [Flowlie](https://www.flowlie.com/)
   * [My LinkedIn](https://www.linkedin.com/in/munozai)
   
- ### If there is some way you think I can help you out please reach out!
+ ### If there is some way you think I can help you out please reach out! Specially when it comes to student-run and ealry stage startups!
 
 
 <!--
