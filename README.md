@@ -1,4 +1,4 @@
-# Hello, and welcome! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Greetings Traveler! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <!--
 **DMH42/DMH42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,7 +20,13 @@ Here are some ideas to get you started:
 
 
 <div> 
-<p>Greetings Traveler! Here is my github profile where I share my work around AI, Startups, and any other code that might be useful!</p>
+<p>Here is my github profile where I share my work around AI, Startups, and any other code that might be useful!</p>
+
+  * [My Website](https://www.munoz.ai)
+  * My current Startup is [Flowlie](https://www.flowlie.com/)
+  * [My LinkedIn](https://www.linkedin.com)
+  
+ ### If there is some way I can help out please let me know!
 
 
 <!--
