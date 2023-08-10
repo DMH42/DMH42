@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 
 <div> 
-<p>Here is my github profile where I share my work around AI, Startups, and any other code that might be useful!</p>
+<p>Here is my github profile where I share my work around AI, and small websites!</p>
  
  
 Back in 2018/19 I worked with [Duncan](https://github.com/duncangrubbs) to build [BarterOut](https://github.com/BarterOut), a peer-to-peer textbook exchange platform!
