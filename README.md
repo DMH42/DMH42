@@ -27,8 +27,7 @@ Back in 2018/19 I worked with [Duncan](https://github.com/duncangrubbs) to build
   * [My Website](https://www.munoz.ai)
   * [My LinkedIn](https://www.linkedin.com/in/munozai)
   
- ### If there is some way you think I can help you out please reach out! Specially when it comes to student-run and ealry stage startups!
-
+ ### If there is some way you think I can help you out please reach out!
 
 <!--
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmh42&theme=dracula&include_all_commits=true&count_private=true">
